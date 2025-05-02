@@ -1,5 +1,5 @@
 # Plant_disease_detection
-The model achieved an impressive **training accuracy of 99%** and **validation accuracy of 96%**, with a **training loss of 0.023** and a **validation loss of 0.138**. These results demonstrate the model's ability to generalize well and effectively classify plant diseases.
+The model achieved an impressive **training accuracy of 99%** and **validation accuracy of 96%**, with a **training loss of 0.023** and a **validation loss of 0.138**. These results demonstrate the model's ability to generalize well and effectively classify plants diseases.
 
 
 **Graph**
